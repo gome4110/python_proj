@@ -1,0 +1,3 @@
+2025-07-16|+5000|salary|my salary
+2025-07-16|+300|food|buying cake
+2025-07-16|-400|food|buying food
